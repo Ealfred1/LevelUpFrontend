@@ -1,0 +1,21 @@
+
+/* Tag selector */
+body {
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEi0diZGcKUOyH_dS1wjOz8fMvxwJ8nEIyw&s");
+    color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEi0diZGcKUOyH_dS1wjOz8fMvxwJ8nEIyw&s") no-repeat center center / cover;
+    color: black;
+}
+
+/* id selector */
+#heading {
+    color: red;
+}
+
+/* class selector */
+.list {
+    color: blue;
+}
